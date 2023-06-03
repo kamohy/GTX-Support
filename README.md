@@ -1,2 +1,2 @@
 # GTX-Support
- GTX-Support Boz
+ GTX-Support Bot
