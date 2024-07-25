@@ -1,2 +1,2 @@
 # GTX-Support
- GTX-Support Bot
+ GTX-Support Helparea
